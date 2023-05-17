@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: white !important; 
+}
+
+html, body {
+    height: 100%;
+}
+:focus-visible {
+    border: .0625rem solid #fe0000!important;
+    border-radius: .25rem;
+    outline: 0;
+}
